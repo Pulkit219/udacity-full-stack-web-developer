@@ -1,6 +1,6 @@
 # Full Stack Web Developer Nanodegree
 
-![Certificate](https://github.com/daniel821/udacity-full-stack-web-developer/blob/master/Udacity-FSND.pdf)
+![Certificate](https://cloud.githubusercontent.com/assets/10285005/22356709/92076192-e487-11e6-9239-7c898f41a990.jpg)
 
 ### About
 This repository contains project work for Udacity's [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/nd004)

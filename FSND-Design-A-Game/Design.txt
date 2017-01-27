@@ -1,0 +1,17 @@
+#Reflect on Your Design
+
+###What additional properties did you add to your models and why?
+
+User:
+In addition to the name and email, the User model now has the wins, total_games, and
+win_percentage to track player's progress.
+
+Score:
+Add player_hand, computer_hand, and won to record game history and player winning scores.
+
+###What were some of the trade-offs or struggles you faced when implementing the new game logic?
+
+In order to ensure the game logic and each endpoint is working property, I had to
+repeatedly create new users, play a few games and hope to get the result I need (result is random).
+It becomes trivial and frustrating at times, I should probably automate the testing process
+at the beginning to make it more efficient. 
